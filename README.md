@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio] https://femigabriel.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[ https://femigabriel.netlify.app/]**
 
 - 📫 How to reach me timfemi@gmail.com/ +2349061513696
 
