@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-⚡ Fun fact I play games and go to the GYM very often.
-
 - 🔭 🔭 I’m currently working on Maildrip (https://app.maildrip.io/)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -15,6 +13,8 @@
 - 👨‍💻 All of my projects are available at **[ https://femigabriel.netlify.app/]**
 
 - 📫 How to reach me timfemi@gmail.com/ +2349061513696
+- 
+⚡ Fun fact I play games and seeing football matches.
 
 
 ## 🚀 Languages and Tools:
